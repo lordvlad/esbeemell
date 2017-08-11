@@ -1,0 +1,19 @@
+{
+  "name": "esbeemell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordvlad/esbeemell.git"
+  },
+  "author": "lordvlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordvlad/esbeemell/issues"
+  },
+  "homepage": "https://github.com/lordvlad/esbeemell#readme"
+}
